@@ -6,11 +6,7 @@ This project aims to preprocess, clean, and analyze historical financial data fo
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Preprocessing and Cleaning](#data-preprocessing-and-cleaning)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Risk Analysis](#risk-analysis)
-- [Results](#results)
-- [Contributing](#contributing)
+
 
 ## Introduction
 This project focuses on analyzing the historical financial data of three tickers:
@@ -26,7 +22,10 @@ git clone https://github.com/yourusername/financial-data-analysis.git
 cd financial-data-analysis
 pip install -r requirements.txt
 ```
+
+## Usage
+
 ```bash
- jupyter notebook notebooks/task1.ipynb
-  jupyter notebook notebooks/task2.ipynb
+jupyter notebook notebooks/task1.ipynb
+jupyter notebook notebooks/task2.ipynb
 ```
