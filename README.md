@@ -25,3 +25,8 @@ To get started, clone the repository and install the required packages using the
 git clone https://github.com/yourusername/financial-data-analysis.git
 cd financial-data-analysis
 pip install -r requirements.txt
+```
+```bash
+ jupyter notebook notebooks/task1.ipynb
+  jupyter notebook notebooks/task2.ipynb
+```
