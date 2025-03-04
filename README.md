@@ -28,4 +28,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook notebooks/task1.ipynb
 jupyter notebook notebooks/task2.ipynb
+jupyter notebook notebooks/task3.ipynb
+jupyter notebook notebooks/task4.ipynb
 ```
